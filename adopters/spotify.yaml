@@ -1,0 +1,11 @@
+name: Spotify
+logoUrl: https://avatars.githubusercontent.com/u/251374
+website: https://spotify.com
+usage: ""
+scala3AdoptionStatus: partial
+category: product company
+size: 7000
+sources:
+  - https://github.com/spotify/scio
+  - https://github.com/spotify/magnolify - uses scala 3
+  - https://www.youtube.com/watch?v=xCr1CG1GZcQ

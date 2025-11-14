@@ -1,0 +1,10 @@
+name: Netflix
+logoUrl: https://avatars.githubusercontent.com/u/913567
+website: https://netflix.com
+usage: "Used for data engineering"
+scala3AdoptionStatus: null
+category: product company
+size: 14000
+sources:
+  - https://archives.scaladays.org/2025/editions/2025/talks/designing-the-library-powering-netflix-s
+  - https://github.com/Netflix/atlas
