@@ -1,9 +1,9 @@
 name: Lichess
 logoUrl: https://avatars.githubusercontent.com/u/16491637
-website: https://www.chisel-lang.org/
+website: https://www.lichess.org/
 usage: The whole site is written in Scala
 scala3AdoptionStatus: full
 category: OSS project
-size: 4500 # stars
+size: 17000 # stars
 sources:
-  - https://github.com/chipsalliance/chisel
+  - https://github.com/lichess-org/lila

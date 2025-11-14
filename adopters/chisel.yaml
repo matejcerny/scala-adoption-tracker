@@ -4,6 +4,6 @@ website: https://www.chisel-lang.org/
 usage: ""
 scala3AdoptionStatus: full
 category: OSS project
-size: 17000 # stars
+size: 4500 # stars
 sources:
-  - https://github.com/lichess-org/lila
+  - https://github.com/chipsalliance/chisel
