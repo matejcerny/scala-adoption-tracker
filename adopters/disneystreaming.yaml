@@ -2,6 +2,7 @@ name: Disney Streaming
 logoUrl: https://avatars.githubusercontent.com/u/39944686
 website: https://disneyplus.com
 description: ""
+size: 2600
 scala3AdoptionStatus: partial
 category: product company
 sources:
