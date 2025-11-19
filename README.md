@@ -16,8 +16,9 @@ Each file should contain a single YAML object with the following fields:
 - `size` – integer used for ordering. GitHub star count for OSS projects, headcount for companies. 
 - `category` – `product company`, `OSS project`, or `consulting company`
 
-Caveat:
-for OSS projects we want to show only those that are not specific to scala-ecosystem but provide value outside of it. 
+Caveats:
+* for OSS projects we want to show only those that are not specific to scala-ecosystem but provide value outside of it. 
+* when adding a new adopter make sure it's not present in `adopters/_others.yaml`
 
 ## Dev Setup
 
@@ -25,3 +26,10 @@ for OSS projects we want to show only those that are not specific to scala-ecosy
 npm install
 npm run start
 ```
+
+## Future work
+
+If the community finds this project useful, we could add the following features:
+* Tracking codebase size
+* Search
+* &lt;your great idea here&gt;

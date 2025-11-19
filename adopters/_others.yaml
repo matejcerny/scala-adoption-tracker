@@ -1,0 +1,484 @@
+
+# Unverified adopters (candidates) — simple list of {name, website}
+# Entries cannot duplicate verified adopters
+# Feel free to add comments beside entries with more information
+# This list was created based on the following sources
+# - Circe adopters list - https://github.com/circe/circe?tab=readme-ov-file#adopters
+# - ZIO adopters list - https://github.com/zio/zio?tab=readme-ov-file#adopters
+# - Tapir adopters list - https://github.com/softwaremill/tapir?tab=readme-ov-file#adopters
+# - Wikipedia - https://en.wikipedia.org/wiki/Scala_(programming_language)#Adoption
+
+- name: Abacus
+  website: https://abacusprotocol.com/
+- name: AdGear / Samsung Ads
+  website: https://adgear.com/en/
+- name: Adidas
+  website: https://www.adidas.com/
+- name: Adobe
+  website: https://www.adobe.com/
+- name: adpulse.io
+  website: https://www.adpulse.io/
+- name: adsquare
+  website: https://www.adsquare.com/
+- name: Amazon
+  website: https://www.amazon.com/
+- name: Anduin Transactions
+  website: https://www.anduintransact.com/
+- name: AnyMind Group
+  website: https://anymindgroup.com
+- name: Apollo Agriculture
+  website: https://apolloagriculture.com/
+- name: Asana
+  website: https://asana.com/
+- name: AT&T
+  website: https://www.att.com/
+- name: Aurinko
+  website: https://www.aurinko.io/
+- name: Auto.ru
+  website: https://auto.ru
+- name: AutoScout24
+  website: https://www.autoscout24.com/
+- name: Avast
+  website: https://www.avast.com
+- name: AvantStay
+  website: https://avantstay.com
+- name: Ayolab
+  website: https://www.ayolab.com/
+- name: Babylon Health
+  website: https://www.babylonhealth.com/
+- name: Bank of America
+  website: https://www.bofa.com
+- name: Banno (Jack Henry)
+  website: https://banno.com/
+- name: BBC
+  website: http://www.bbc.co.uk
+- name: Believe
+  website: https://www.believe.com
+- name: Blue Insight Digital
+  website: https://www.blueinsight.digital/
+- name: BlueLabs
+  website: https://www.bluelabs.eu/
+- name: Bloomberg
+  website: https://www.bloomberg.com/
+- name: Bpp
+  website: https://www.bpp.it/
+- name: Broad Institute
+  website: https://www.broadinstitute.org/data-sciences-platform
+- name: Broad
+  website: https://broad.app
+- name: Caesars Digital
+  website: https://www.caesars.com/sportsbook-and-casino
+- name: CalcBank
+  website: https://www.calcbank.com.br
+- name: Call Handling
+  website: https://www.callhandling.co.uk/
+- name: Carvana
+  website: https://www.carvana.com
+- name: Cellular
+  website: https://www.cellular.de
+- name: ChannelPilot
+  website: https://channelpilot.com/de
+- name: Chartboost
+  website: https://www.chartboost.com/
+- name: CiBO Technologies
+  website: http://www.cibotechnologies.com
+- name: ClearScore
+  website: https://www.clearscore.com
+- name: Cloudfarms
+  website: https://cloudfarms.com
+- name: Codacy
+  website: https://www.codacy.com
+- name: CodeComprehension
+  website: https://codecomprehension.com
+- name: Codept
+  website: https://www.codept.de/
+- name: Collibra
+  website: https://www.collibra.com/
+- name: Colisweb
+  website: https://www.colisweb.com
+- name: Compellon
+  website: https://www.compellon.com/
+- name: Complicated Robot
+  website: https://www.complicatedrobot.com/
+- name: CompStak
+  website: https://compstak.com
+- name: Conduktor
+  website: https://www.conduktor.io
+- name: Connio
+  website: https://www.connio.com
+- name: Contramap
+  website: https://www.contramap.dev
+- name: Coralogix
+  website: https://coralogix.com
+- name: Coya
+  website: https://www.coya.com/
+- name: Credit Karma
+  website: https://creditkarma.com
+- name: Criteo
+  website: https://www.criteo.com/
+- name: CurrencyCloud
+  website: https://www.currencycloud.com/
+- name: D.E.Solution
+  website: https://de-solution.com/
+- name: DaSCH
+  website: https://dasch.swiss/
+- name: Dassault Systèmes
+  website: https://www.3ds.com/
+- name: DataChef
+  website: https://datachef.co
+- name: Datalogue
+  website: https://datalogue.io
+- name: Demandbase
+  website: https://www.demandbase.com
+- name: Demyst
+  website: https://demyst.com
+- name: Deutsche Telekom IoT GmbH
+  website: https://iot.telekom.com/en
+- name: Devsisters
+  website: https://devsisters.com/
+- name: DHL Parcel Netherlands
+  website: https://www.werkenbijdhl.nl/it
+- name: Disney Streaming
+  website: https://www.disneyplus.com/
+- name: Doomoolmori
+  website: https://doomoolmori.com/
+- name: Dow Jones
+  website: https://www.dowjones.com
+- name: Dream11
+  website: https://dream11.com
+- name: Dreamlines
+  website: https://www.dreamlines.com/
+- name: DriveTribe
+  website: https://drivetribe.com
+- name: Duolingo
+  website: https://www.duolingo.com/
+- name: eBay
+  website: https://www.ebay.com
+- name: Eaglescience
+  website: https://www.eaglescience.nl
+- name: Earnest
+  website: https://www.earnest.com
+- name: EDF
+  website: https://www.edf.fr/
+- name: Elastic
+  website: https://www.elastic.co
+- name: Ematiq
+  website: https://www.ematiq.com/
+- name: Emmy Sharing
+  website: https://emmy-sharing.de/en/
+- name: EnelX
+  website: https://www.enelx.com
+- name: EPAM
+  website: https://www.epam.com/
+- name: Evolution
+  website: https://evolution.engineering
+- name: Evo
+  website: https://evo.company
+- name: FOLIO
+  website: https://folio-sec.com/
+- name: Flipp
+  website: https://flipp.com/
+- name: Fugo.ai
+  website: https://www.fugo.ai
+- name: Garner
+  website: https://www.garnercorp.com/
+- name: Gilt
+  website: https://www.gilt.com/
+- name: Glean
+  website: https://www.gleancompany.com
+- name: GLNGN Server
+  website: https://glngn.com
+- name: GMX / Gutefrage
+  website: https://www.gutefrage.net
+- name: Google / Alphabet
+  website: https://about.google/
+- name: GrandParade
+  website: https://grandparade.co.uk
+- name: Greyflower Media
+  website: https://greyflower.media
+- name: Gympass
+  website: https://www.gympass.com/
+- name: Hello Soda
+  website: https://hellosoda.com/
+- name: HERE Technologies
+  website: https://www.here.com/
+- name: Heroku
+  website: https://www.heroku.com/
+- name: Hireproof
+  website: https://hireproof.io/
+- name: HMRC
+  website: https://www.gov.uk/government/organisations/hm-revenue-customs
+- name: HolidayCheck
+  website: https://www.holidaycheck.de
+- name: Hootsuite
+  website: https://www.hootsuite.com
+- name: Huffington Post
+  website: https://www.huffpost.com/
+- name: Hunters.ai
+  website: https://hunters.ai
+- name: Hypefactors
+  website: https://hypefactors.com/
+- name: iHeartRadio
+  website: https://www.iheart.com/
+- name: IHS Markit
+  website: https://ihsmarkit.com/
+- name: Iceo
+  website: http://www.iceo.co/
+- name: IGN
+  website: https://www.ign.com/
+- name: ImmobilienScout24
+  website: https://www.immobilienscout24.de/
+- name: Immozentral
+  website: https://www.immozentral.com/
+- name: Indix
+  website: https://www.indix.com
+- name: Investsuite
+  website: https://investsuite.com/
+- name: Invia
+  website: https://www.invia.cz/
+- name: ITV
+  website: https://www.itv.com/
+- name: Janrain
+  website: https://www.janrain.com/
+- name: Kaizen Solutions
+  website: https://kaizen-solutions.net/
+- name: Kamon APM
+  website: https://kamon.io/
+- name: Kaizo
+  website: https://kaizo.com
+- name: Kelkoo Group
+  website: https://www.kelkoogroup.com
+- name: Kensu
+  website: https://kensu.io
+- name: Kinoplan
+  website: https://kinoplan.ru/
+- name: Klout
+  website: https://klout.com/
+- name: Kodmagi
+  website: https://www.kodmagi.se
+- name: LambdaWorks
+  website: https://www.lambdaworks.io/
+- name: Latitude Financial Services
+  website: https://www.latitudefinancial.com.au/
+- name: LeadIQ
+  website: https://leadiq.com
+- name: Lernkunst
+  website: http://www.lernkunst.com/
+- name: LiveIntent
+  website: https://liveintent.com
+- name: LKWfee
+  website: https://lkwfee.de/
+- name: Lottoland
+  website: https://lottoland.com
+- name: MatchesFashion
+  website: https://www.matchesfashion.com
+- name: Matechs
+  website: https://matechs.com
+- name: Medidata
+  website: https://medidata.com
+- name: Megogo
+  website: https://megogo.net
+- name: Merit
+  website: https://merits.com
+- name: Metacommerce
+  website: https://www.metacommerce.ru
+- name: Meetup.com
+  website: https://www.meetup.com/
+- name: M1 Finance
+  website: https://www.m1.com/
+- name: Mobile.de
+  website: https://www.mobile.de
+- name: MOIA
+  website: https://www.moia.io/
+- name: MomentFeed
+  website: https://momentfeed.com
+- name: Moneyfarm
+  website: https://www.moneyfarm.com
+- name: Mylivn
+  website: https://www.mylivn.com/
+- name: NewMotion
+  website: https://newmotion.com
+- name: New York Times
+  website: https://www.nytimes.com/
+- name: New Work
+  website: https://www.new-work.se/en/
+- name: Nike
+  website: https://www.nike.com
+- name: NsLookup
+  website: https://www.nslookup.io
+- name: Ocado Technology
+  website: https://ocadotechnology.com
+- name: Olyro GmbH
+  website: https://olyro.de
+- name: On Air Entertainment
+  website: https://onairentertainment.com/
+- name: Onfocus
+  website: https://onfocus.io
+- name: Opt Technologies
+  website: https://opt-technologies.jp/
+- name: Optrak
+  website: https://optrak.com
+- name: OVO Energy / Kaluza
+  website: https://www.ovoenergy.com
+- name: Panaseer
+  website: https://panaseer.com
+- name: Performance Immo
+  website: https://www.performance-immo.com/
+- name: Permutive
+  website: http://permutive.com
+- name: PIM Solutions
+  website: https://pimsolutions.ru/
+- name: Pirum
+  website: https://www.pirum.com/
+- name: PITS Global Data Recovery
+  website: https://www.pitsdatarecovery.net/
+- name: Playtika
+  website: https://www.playtika.com
+- name: PPC Samurai
+  website: https://ppcsamurai.com/
+- name: Prezi
+  website: https://prezi.com
+- name: Project September
+  website: http://www.projectseptember.com
+- name: Radix Labs
+  website: https://www.radix.bio/
+- name: Railroad19
+  website: https://www.railroad19.com
+- name: Randstad
+  website: https://www.werkenbijrandstad.nl
+- name: Rapidor
+  website: https://www.rapidor.co
+- name: Raster Foundry
+  website: https://github.com/raster-foundry/raster-foundry/
+- name: Ravel Law
+  website: http://ravellaw.com/technology/
+- name: REA Group
+  website: https://www.realestate.com.au/
+- name: Remember The Milk
+  website: https://www.rememberthemilk.com/
+- name: Reonomy
+  website: https://reonomy.com/
+- name: Resilient plc
+  website: https://resilientplc.com/
+- name: REWE Digital
+  website: http://rewe-digital.com/
+- name: Risk Ident
+  website: https://riskident.com/
+- name: Rocker
+  website: https://rocker.com/
+- name: Rudder / Rudder.io
+  website: https://www.rudder.io/
+- name: Samsung Food
+  website: https://samsungfood.com/
+- name: Sanjagh
+  website: https://sanjagh.pro/
+- name: Scalac
+  website: https://scalac.io/
+- name: SecurityScorecard
+  website: https://www.securityscorecard.io/
+- name: Signicat
+  website: https://www.signicat.com/
+- name: Sky
+  website: https://www.sky.com/
+- name: Sony
+  website: https://www.sony.com/
+- name: SpotX
+  website: https://www.spotx.tv/
+- name: StreamWeaver
+  website: https://www.streamweaver.com/
+- name: Stripe
+  website: https://stripe.com
+- name: Stuart
+  website: https://stuart.com/
+- name: Swisscom
+  website: https://swisscom.com/
+- name: Synerise
+  website: https://www.synerise.com/
+- name: TabMo
+  website: http://tabmo-group.io/
+- name: Teads
+  website: https://teads.com
+- name: Tesla
+  website: https://www.tesla.com/
+  # https://www.infoq.com/news/2020/03/tesla-vpp/?utm_source=sumome&utm_medium=twitter&utm_campaign=sumome_share -->
+  #Scala also shows up in their job offers for distirbuted system engineer, but among other languages (non-exclusively) -->
+- name: The Pokemon Company International
+  website: https://www.pokemon.com/us/about-pokemon/
+- name: Thinkoff / Tinkoff
+  website: https://tinkoff.ru/
+- name: Threat Stack
+  website: https://www.threatstack.com/
+- name: Tinka
+  website: https://www.tinka.com/
+- name: TomTom
+  website: https://tomtom.com
+- name: Trackabus
+  website: https://trackabus.com
+- name: Trainor
+  website: https://www.trainor.no
+- name: Tranzzo
+  website: https://tranzzo.com
+- name: TreuTech
+  website: https://treutech.io
+- name: Tumblr
+  website: https://www.tumblr.com/
+- name: Tweddle Group
+  website: https://tweddle.com
+- name: Twilio
+  website: https://www.twilio.com
+- name: Uberall
+  website: https://stackshare.io/uberall/uberall
+- name: Undo
+  website: https://www.undo.app
+- name: Unit
+  website: https://unit.co
+- name: Univalence
+  website: https://univalence.io
+- name: Unzer
+  website: https://www.unzer.com
+- name: Vakantiediscounter
+  website: https://www.vakantiediscounter.nl
+- name: Valamis Group
+  website: https://valamis.com
+- name: Valsea
+  website: https://valsea.com
+- name: ValueClick
+  website: https://www.valueclick.com/
+- name: Verizon
+  website: https://www.verizon.com/
+- name: Verbund AG
+  website: https://www.verbund.com
+- name: Vish
+  website: https://getvish.com
+- name: Vivid Money
+  website: https://vivid.money
+- name: VMWare
+  website: https://www.vmware.com/
+- name: Walmart Canada
+  website: https://www.walmart.ca/
+- name: Waylay
+  website: https://www.waylay.io/
+- name: WeWork
+  website: https://www.wework.com
+- name: Wehkamp
+  website: https://www.wehkamp.nl
+- name: Wefunder
+  website: https://wefunder.com
+- name: Whisk
+  website: https://whisk.com
+- name: Wide Angle Analytics
+  website: https://wideangle.co
+- name: Wix
+  website: https://www.wix.com/
+- name: Wolt
+  website: https://www.wolt.com/
+- name: Xing
+  website: https://www.xing.com
+- name: Yandex.Classifieds
+  website: https://o.yandex.ru
+- name: Zendesk
+  website: https://zendesk.com
+- name: Zooz
+  website: https://zooz.com/
+- name: Fortnite
+  website: https://fortnite.com

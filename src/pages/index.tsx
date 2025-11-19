@@ -68,7 +68,16 @@ export default function Home(): ReactNode {
     const data = useGlobalData();
     const pluginData = data['adopters-plugin']?.default as AdoptersContent | undefined;
     const adopters = pluginData?.adopters ?? [];
+    const unverified = pluginData?.unverified ?? [];
     const lastUpdated = pluginData?.lastUpdated ?? 'unknown date';
+
+    function chunk<T>(arr: T[], n: number): T[][] {
+        const size = Math.ceil(arr.length / n);
+        return Array.from({ length: n }, (_, i) =>
+            arr.slice(i * size, i * size + size)
+        );
+    }
+    const unverifiedColumns = chunk(unverified, 4);
 
     return (
         <Layout description="Crowdsourced list of companies and projects adopting Scala.">
@@ -94,6 +103,29 @@ export default function Home(): ReactNode {
                                     <AdopterCard key={`${key}-${adopter.name}`} adopter={adopter}/>
                                 ))}
                             </div>
+                            <hr/>
+                            {key === 'product company' && unverified.length > 0 && (
+                                <div>
+                                    <Heading as="h3">And possibly {unverified.length} more!</Heading>
+                                    <p>List below has been scrapped from various sources but the entries have not been verified.</p>
+                                    <details className="adopter-unverified">
+                                        <summary>Expand</summary>
+                                        <div className="adopters-grid">
+                                        {unverifiedColumns.map((col, i) => (
+                                            <ul key={i} className="unverified-column">
+                                                {col.map((u) => (
+                                                    <li key={u.website}>
+                                                        <a href={u.website} target="_blank" rel="noreferrer">
+                                                            {u.name}
+                                                        </a>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        ))}
+                                        </div>
+                                    </details>
+                                </div>
+                            )}
                         </section>
                     );
                 })}
