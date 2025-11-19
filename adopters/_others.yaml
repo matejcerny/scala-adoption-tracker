@@ -7,6 +7,7 @@
 # - ZIO adopters list - https://github.com/zio/zio?tab=readme-ov-file#adopters
 # - Tapir adopters list - https://github.com/softwaremill/tapir?tab=readme-ov-file#adopters
 # - Wikipedia - https://en.wikipedia.org/wiki/Scala_(programming_language)#Adoption
+# - ScalaJobs - https://scalajobs.com/blog/which-companies-use-scala
 
 - name: Abacus
   website: https://abacusprotocol.com/
@@ -196,6 +197,8 @@
   website: https://greyflower.media
 - name: Gympass
   website: https://www.gympass.com/
+- name: Hapag-Lloyd
+  website: https://www.hapag-lloyd.com/
 - name: Hello Soda
   website: https://hellosoda.com/
 - name: HERE Technologies
@@ -224,6 +227,8 @@
   website: http://www.iceo.co/
 - name: IGN
   website: https://www.ign.com/
+- name: ING Bank
+  website: https://www.ing.com/
 - name: ImmobilienScout24
   website: https://www.immobilienscout24.de/
 - name: Immozentral
@@ -296,12 +301,13 @@
   website: https://www.mylivn.com/
 - name: NewMotion
   website: https://newmotion.com
+
+  # https://www.youtube.com/watch?v=gpd6JtnWs2E but from 2019
+  # https://open.nytimes.com/building-blackbeard-a-syndication-system-powered-by-play-scala-and-akka-9ae867d47da6 (2014)
 - name: New York Times
   website: https://www.nytimes.com/
 - name: New Work
   website: https://www.new-work.se/en/
-- name: Nike
-  website: https://www.nike.com
 - name: NsLookup
   website: https://www.nslookup.io
 - name: Ocado Technology
@@ -334,8 +340,6 @@
   website: https://www.playtika.com
 - name: PPC Samurai
   website: https://ppcsamurai.com/
-- name: Prezi
-  website: https://prezi.com
 - name: Project September
   website: http://www.projectseptember.com
 - name: Radix Labs
@@ -384,6 +388,9 @@
   website: https://www.spotx.tv/
 - name: StreamWeaver
   website: https://www.streamweaver.com/
+
+  # https://github.com/stripe/rainier but the last commit is from 2021
+  # No newer sources could be found
 - name: Stripe
   website: https://stripe.com
 - name: Stuart
@@ -396,10 +403,11 @@
   website: http://tabmo-group.io/
 - name: Teads
   website: https://teads.com
+
+  # https://www.infoq.com/news/2020/03/tesla-vpp/?utm_source=sumome&utm_medium=twitter&utm_campaign=sumome_share
+  # Scala also shows up in their job offers for distirbuted system engineer, but among other languages (non-exclusively)
 - name: Tesla
   website: https://www.tesla.com/
-  # https://www.infoq.com/news/2020/03/tesla-vpp/?utm_source=sumome&utm_medium=twitter&utm_campaign=sumome_share -->
-  #Scala also shows up in their job offers for distirbuted system engineer, but among other languages (non-exclusively) -->
 - name: The Pokemon Company International
   website: https://www.pokemon.com/us/about-pokemon/
 - name: Thinkoff / Tinkoff
@@ -442,6 +450,8 @@
   website: https://valsea.com
 - name: ValueClick
   website: https://www.valueclick.com/
+
+  # All OSS repos has been archived, no recent comments about their adoption
 - name: Verizon
   website: https://www.verizon.com/
 - name: Verbund AG
@@ -450,12 +460,17 @@
   website: https://getvish.com
 - name: Vivid Money
   website: https://vivid.money
+
+  # No public easy to find evidence
 - name: VMWare
   website: https://www.vmware.com/
 - name: Walmart Canada
   website: https://www.walmart.ca/
 - name: Waylay
   website: https://www.waylay.io/
+
+  # WeWork acquired Euclid Inc that used scala - https://www.arnaudo.info/
+  # Mentioned in https://scalajobs.com/blog/which-companies-use-scala
 - name: WeWork
   website: https://www.wework.com
 - name: Wehkamp
@@ -468,8 +483,6 @@
   website: https://wideangle.co
 - name: Wix
   website: https://www.wix.com/
-- name: Wolt
-  website: https://www.wolt.com/
 - name: Xing
   website: https://www.xing.com
 - name: Yandex.Classifieds
@@ -478,5 +491,9 @@
   website: https://zendesk.com
 - name: Zooz
   website: https://zooz.com/
+
+  # They use Akka but sources vary on Scala usage
+  # https://www.linkedin.com/posts/lightbend-inc-_akkafortnitelinkedinv2jpg-activity-6724461702911406080-diMb/
+  # Scala is mentioned here https://www.serverwatch.com/server-news/how-epic-games-uses-kubernetes-to-power-fortnite-application-servers/
 - name: Fortnite
   website: https://fortnite.com

@@ -1,0 +1,11 @@
+name: Nike
+logoUrl: https://logo.clearbit.com/nike.com
+website: https://www.nike.com/
+description: |
+  Footwear company.
+scala3AdoptionStatus: null
+category: product company
+size: 74000
+sources:
+  - https://github.com/Nike-Inc/Fleam
+  - Scala shows in job descriptions, e.g. https://careers.nike.com/pl/software-engineer-i-reliability-engineering-itc/job/R-73915

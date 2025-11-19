@@ -1,0 +1,11 @@
+name: Prezi
+logoUrl: https://logo.clearbit.com/prezi.com
+website: https://prezi.com
+description: |
+  Presentation and visual-communication platform.
+scala3AdoptionStatus: null
+category: product company
+size: 300
+sources:
+  - https://stackshare.io/prezi/prezi
+  - https://engineering.prezi.com/scala-at-prezi-introduction-of-zio-24b14070ae69

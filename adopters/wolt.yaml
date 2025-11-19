@@ -1,0 +1,13 @@
+name: Wolt
+logoUrl: https://logo.clearbit.com/wolt.com
+website: https://www.wolt.com/
+description: |
+  Food and goods delivery platform.
+scala3AdoptionStatus: null
+category: product company
+size: 7000
+sources:
+  - https://careers.wolt.com/en/blog/tech/scala-at-wolt-our-scala-organization-part-i
+  - https://careers.wolt.com/en/blog/tech/scala-at-wolt-technical-decisions
+  - https://careers.wolt.com/en/jobs/7271078
+  - https://github.com/woltapp/spark-osm-datasource
